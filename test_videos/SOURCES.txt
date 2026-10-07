@@ -1,0 +1,8 @@
+Test videos, downloaded 2026-10-07 from the Ultralytics sample assets
+(https://github.com/ultralytics/assets/releases/tag/v0.0.0, repository licensed AGPL-3.0):
+
+  kitti-inference-vid.mp4  - city driving clip from the KITTI dataset (cvlibs.net/datasets/kitti, CC BY-NC-SA 3.0)
+  dashboard_sample.mp4     - aerial view of dense traffic
+  sahi.demo.video.mp4      - high drone shot of a roundabout and car parks (many tiny cars)
+
+Run them with:  .\.venv\Scripts\python.exe realtime_detect.py --source test_videos
